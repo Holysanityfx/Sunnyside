@@ -5,11 +5,11 @@
 
 function Projects() {
   return (
-    <div id="projects" className="md:flex flex  flex-wrap w-full items-center p-3  ">
-      <img className="md:w-1/4  w-45  1/2 md:h-[500px]  h-50 " src={Bottle} alt="" />
-      <img className="md:w-1/4  w-45 1/2 md:h-[500px]  h-50 " src={Orang} alt="" />
-      <img className="md:w-1/4 w-45 md:h-[500px] h-50 " src={Corn} alt="" />
-      <img className="md:w-1/4  w-45 md:h-[500px] h-50 " src={Sugar} alt="" />
+    <div id="projects" className="md:flex flex  flex-wrap w-full items-center p-4  ">
+      <img className="md:w-1/4 items-center  w-40  1/2 md:h-[500px]  h-50 " src={Bottle} alt="" />
+      <img className="md:w-1/4  w-40 1/2 md:h-[500px]  h-50 " src={Orang} alt="" />
+      <img className="md:w-1/4 w-40 md:h-[500px] h-50 " src={Corn} alt="" />
+      <img className="md:w-1/4  w-40 md:h-[500px] h-50 " src={Sugar} alt="" />
     </div>
   );
 }

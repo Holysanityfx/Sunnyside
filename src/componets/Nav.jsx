@@ -67,7 +67,7 @@
                <a
                  onClick={() => setIsopen(false)}
                  className=" hover:bg-amber-600 hover:rounded hover:text-white "
-                 href="projects"
+                 href="#projects"
                >
                  Projects
                </a>
